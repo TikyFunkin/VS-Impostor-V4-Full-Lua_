@@ -1,56 +1,56 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				37,
+				11
+			],
 			"loop": false,
-			"offsets": [
-				-26,
-				-12
-			],
-			"fps": 24,
-			"anim": "deathConfirm",
-			"indices": [],
-			"name": "RETRY CONFIRM"
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-30,
-				-12
-			],
-			"fps": 24,
-			"anim": "deathLoop",
-			"indices": [],
-			"name": "Retry Loop"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
 			"fps": 24,
 			"anim": "firstDeath",
 			"indices": [],
-			"name": "BF Dies pixel"
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				37,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/bfPixelsDEAD",
+	"no_antialiasing": false,
+	"image": "characters/bf_defeat_death",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf-pixel",
+	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		123,
-		214,
-		246
+		49,
+		176,
+		209
 	],
 	"camera_position": [
-		50,
-		-60
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 1
 }

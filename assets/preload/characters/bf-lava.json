@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				6,
-				-7
+				5,
+				-12
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -26,7 +26,7 @@
 			"loop": false,
 			"offsets": [
 				-22,
-				-51
+				-53
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-48,
-				27
+				-46,
+				19
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -47,7 +47,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-52,
+				-55,
 				-5
 			],
 			"anim": "singRIGHT",
@@ -80,8 +80,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-36,
-				27
+				-42,
+				26
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -91,7 +91,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-44,
+				-46,
 				22
 			],
 			"anim": "singRIGHTmiss",
@@ -200,7 +200,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bflava",
 	"position": [
 		0,
 		350
@@ -213,8 +213,8 @@
 		209
 	],
 	"camera_position": [
-		100,
-		-40
+		0,
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1

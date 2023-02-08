@@ -1,14 +1,10 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				4,
+				26
 			],
-			"anim": "danceLeft",
-			"fps": 24,
-			"name": "GF IDLE",
 			"indices": [
 				30,
 				0,
@@ -26,17 +22,17 @@
 				12,
 				13,
 				14
-			]
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "GF Dancing Beat"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				4,
+				26
 			],
-			"anim": "danceRight",
-			"fps": 24,
-			"name": "GF IDLE",
 			"indices": [
 				15,
 				16,
@@ -53,22 +49,15 @@
 				27,
 				28,
 				29
-			]
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
 			],
-			"anim": "singUP",
 			"fps": 24,
-			"name": "GF IDLE",
-			"indices": []
+			"anim": "danceRight",
+			"loop": false,
+			"name": "GF Dancing Beat"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/gfPixel",
+	"no_antialiasing": false,
+	"image": "characters/farmer_gf",
 	"position": [
 		0,
 		0
@@ -81,9 +70,9 @@
 		77
 	],
 	"camera_position": [
-		-20,
-		80
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 5.99999999999999
+	"scale": 1
 }
