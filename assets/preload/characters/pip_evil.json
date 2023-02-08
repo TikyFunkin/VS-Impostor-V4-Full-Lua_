@@ -8,66 +8,66 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Mom Idle",
+			"name": "Pip Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				250,
-				-23
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Mom Left Pose",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				10,
-				-60
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Mom Pose Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				20,
-				-160
+				-25,
+				-9
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "MOM DOWN POSE",
+			"name": "Pip Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				14,
-				71
+				-26,
+				22
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Mom Up Pose",
+			"name": "Pip Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pip Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pip Right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Mom_Assets",
+	"image": "characters/pip_evil",
 	"position": [
-		0,
-		0
+		-100,
+		110
 	],
-	"healthicon": "mom",
+	"healthicon": "pip",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		254,
+		170,
+		71
 	],
 	"camera_position": [
 		0,

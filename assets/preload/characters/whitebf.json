@@ -2,119 +2,119 @@
 	"animations": [
 		{
 			"offsets": [
-				3,
+				-5,
 				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Pico Idle Dance"
+			"name": "BF idle dance"
 		},
 		{
 			"offsets": [
-				20,
-				32
+				6,
+				-7
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singUP",
+			"anim": "singLEFT",
 			"indices": [],
-			"name": "pico Up note0"
+			"name": "BF NOTE LEFT0"
 		},
 		{
 			"offsets": [
-				92,
-				-80
+				-22,
+				-51
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Pico Down Note0"
+			"name": "BF NOTE DOWN0"
 		},
 		{
 			"offsets": [
-				89,
-				-38
+				-48,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-52,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				7,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-15,
+				-19
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "Pico Down Note MISS"
+			"name": "BF NOTE DOWN MISS"
 		},
 		{
 			"offsets": [
-				28,
-				65
+				-36,
+				27
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUPmiss",
 			"indices": [],
-			"name": "pico Up note miss"
+			"name": "BF NOTE UP MISS"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-47,
-				-5
+				-44,
+				22
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Pico Note Right0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				90,
-				-10
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Pico NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-42,
-				43
-			],
 			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "Pico Note Right Miss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				85,
-				20
-			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "Pico NOTE LEFT miss",
-			"indices": []
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/picolobbest",
+	"image": "characters/whitebf",
 	"position": [
 		0,
-		300
+		350
 	],
-	"healthicon": "pico",
+	"healthicon": "whitebf",
 	"flip_x": true,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		225,
+		225,
+		225
 	],
 	"camera_position": [
-		220,
+		0,
 		0
 	],
 	"sing_duration": 4,

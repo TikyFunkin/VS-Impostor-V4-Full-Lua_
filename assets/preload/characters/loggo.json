@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				1,
-				0
-			],
-			"loop": false,
-			"anim": "idle",
-			"fps": 24,
-			"name": "Senpai Idle",
-			"indices": []
-		},
-		{
-			"offsets": [
-				5,
-				37
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "SENPAI UP NOTE"
-		},
-		{
-			"offsets": [
 				0,
 				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "idle",
 			"indices": [],
-			"name": "SENPAI RIGHT NOTE"
+			"name": "idle"
 		},
 		{
 			"offsets": [
-				40,
-				0
+				-75,
+				246
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				90,
+				12
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "SENPAI LEFT NOTE"
+			"name": "left"
 		},
 		{
 			"offsets": [
-				14,
-				0
+				-2,
+				-88
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "SENPAI DOWN NOTE"
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-230,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/senpai",
+	"image": "characters/loggo",
 	"position": [
-		150,
-		360
+		220,
+		160
 	],
-	"healthicon": "senpai-pixel",
+	"healthicon": "fella",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		170,
-		111
+		40,
+		144,
+		86
 	],
 	"camera_position": [
-		-240,
-		-330
+		-400,
+		-300
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 2.3
 }

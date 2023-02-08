@@ -2,77 +2,88 @@
 	"animations": [
 		{
 			"offsets": [
-				1,
-				0
-			],
-			"loop": false,
-			"anim": "idle",
-			"fps": 24,
-			"name": "Senpai Idle",
-			"indices": []
-		},
-		{
-			"offsets": [
-				5,
-				37
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "SENPAI UP NOTE"
-		},
-		{
-			"offsets": [
 				0,
-				0
+				80
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "idle",
 			"indices": [],
-			"name": "SENPAI RIGHT NOTE"
+			"name": "piple"
 		},
 		{
 			"offsets": [
-				40,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "SENPAI LEFT NOTE"
-		},
-		{
-			"offsets": [
-				14,
-				0
+				19,
+				71
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "SENPAI DOWN NOTE"
+			"name": "pip down"
+		},
+		{
+			"offsets": [
+				23,
+				112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pip up"
+		},
+		{
+			"offsets": [
+				-8,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pip righ"
+		},
+		{
+			"offsets": [
+				56,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pip lef"
+		},
+		{
+			"offsets": [
+				10,
+				121
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "rozebud?",
+			"loop": false,
+			"name": "piprozebud"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/senpai",
+	"no_antialiasing": false,
+	"image": "characters/piptorture",
 	"position": [
-		150,
-		360
+		-200,
+		95
 	],
-	"healthicon": "senpai-pixel",
+	"healthicon": "pip",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
+		254,
 		170,
-		111
+		71
 	],
 	"camera_position": [
-		-240,
-		-330
+		-610,
+		90
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 1
 }

@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				1,
-				0
+				-51,
+				-28
 			],
 			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Senpai Idle",
-			"indices": []
-		},
-		{
-			"offsets": [
-				5,
-				37
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
 			"indices": [],
-			"name": "SENPAI UP NOTE"
+			"name": "sax idle"
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-74,
+				-30
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "SENPAI RIGHT NOTE"
+			"name": "sax right"
 		},
 		{
 			"offsets": [
-				40,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "SENPAI LEFT NOTE"
-		},
-		{
-			"offsets": [
-				14,
-				0
+				70,
+				-54
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "SENPAI DOWN NOTE"
+			"name": "sax down"
+		},
+		{
+			"offsets": [
+				21,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sax up"
+		},
+		{
+			"offsets": [
+				-38,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sax left"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/senpai",
+	"no_antialiasing": false,
+	"image": "characters/powers_sax",
 	"position": [
-		150,
-		360
+		-10,
+		200
 	],
-	"healthicon": "senpai-pixel",
+	"healthicon": "powers",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		170,
-		111
+		100,
+		195,
+		255
 	],
 	"camera_position": [
-		-240,
-		-330
+		-130,
+		120
 	],
-	"sing_duration": 4,
-	"scale": 6
+	"sing_duration": 6.1,
+	"scale": 1
 }

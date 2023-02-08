@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				30,
+				-291
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Mom Idle",
+			"name": "idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				250,
-				-23
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Mom Left Pose",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				10,
-				-60
+				26,
+				-290
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Mom Pose Left",
+			"name": "right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				20,
-				-160
+				32,
+				-293
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "MOM DOWN POSE",
+			"name": "down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				14,
-				71
+				31,
+				-291
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-291
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Mom Up Pose",
+			"name": "up",
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/Mom_Assets",
+	"no_antialiasing": true,
+	"image": "characters/idkbf",
 	"position": [
-		0,
-		0
+		40,
+		100
 	],
-	"healthicon": "mom",
-	"flip_x": false,
+	"healthicon": "idkbf",
+	"flip_x": true,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		0,
+		162,
+		232
 	],
 	"camera_position": [
-		0,
-		0
+		-80,
+		390
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"sing_duration": 10,
+	"scale": 0.8
 }

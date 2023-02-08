@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				1,
-				0
+				189,
+				-140
 			],
 			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Senpai Idle",
-			"indices": []
-		},
-		{
-			"offsets": [
-				5,
-				37
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
 			"indices": [],
-			"name": "SENPAI UP NOTE"
+			"name": "Pink Idle"
 		},
 		{
 			"offsets": [
-				0,
-				0
+				100,
+				-159
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "SENPAI RIGHT NOTE"
+			"name": "Pink Right"
 		},
 		{
 			"offsets": [
-				40,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "SENPAI LEFT NOTE"
-		},
-		{
-			"offsets": [
-				14,
-				0
+				126,
+				-169
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "SENPAI DOWN NOTE"
+			"name": "Pink Down"
+		},
+		{
+			"offsets": [
+				137,
+				-172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pink Left"
+		},
+		{
+			"offsets": [
+				259,
+				-164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pink Up"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/senpai",
+	"no_antialiasing": false,
+	"image": "characters/pinkexe",
 	"position": [
-		150,
-		360
+		40,
+		50
 	],
-	"healthicon": "senpai-pixel",
+	"healthicon": "pink",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		170,
-		111
+		182,
+		80,
+		146
 	],
 	"camera_position": [
-		-240,
-		-330
+		-190,
+		200
 	],
-	"sing_duration": 4,
-	"scale": 6
+	"sing_duration": 6.1,
+	"scale": 0.9
 }
